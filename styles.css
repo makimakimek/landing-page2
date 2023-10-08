@@ -55,3 +55,59 @@
 .section-one .section-one-bottom .section-one-right {
 
 }
+
+.section-two {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.section-two .section-two-top {
+    text-align: center;
+}
+
+.section-two .section-two-bottom {
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+}
+
+.section-two .section-two-bottom .box-one {
+
+}
+
+.section-two .section-two-bottom .box-one .image-one {
+    border: 4px solid #3882f6;
+    border-radius: 15px;
+}
+
+.section-two .section-two-bottom .box-one .description-one {
+    text-align: center;
+}
+
+.section-two .section-two-bottom .box-two .image-two {
+    border: 4px solid #3882f6;
+    border-radius: 15px;
+}
+
+.section-two .section-two-bottom .box-two .description-two {
+    text-align: center;
+}
+
+.section-two .section-two-bottom .box-three .image-three {
+    border: 4px solid #3882f6;
+    border-radius: 15px;
+}
+
+.section-two .section-two-bottom .box-three .description-three {
+    text-align: center;
+}
+
+.section-two .section-two-bottom .box-four .image-four {
+    border: 4px solid #3882f6;
+    border-radius: 15px;
+}
+
+.section-two .section-two-bottom .box-four .description-four {
+    text-align: center;
+}
