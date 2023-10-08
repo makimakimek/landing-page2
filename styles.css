@@ -1,0 +1,57 @@
+.section-one {
+    font-family: sans-serif;
+    color: white;
+    background-color: #1f2937;
+}
+
+.section-one .section-one-top {
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+}
+
+.section-one .section-one-top .header-logo {
+    
+}
+
+.section-one .section-one-top .header-links {
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+}
+
+.section-one .section-one-bottom {
+    height: 400px;
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.section-one .section-one-bottom .section-one-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-one .section-one-bottom .section-one-left .title {
+
+}
+
+.section-one .section-one-bottom .section-one-left .description p {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-one .section-one-bottom .section-one-left .sign-up-button {
+    background-color: #3882f6;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.section-one .section-one-bottom .section-one-right {
+
+}
