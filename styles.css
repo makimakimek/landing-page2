@@ -197,3 +197,59 @@
 .text2 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+/*//////////////////////////about page elements///////////////////////*/
+
+.aboutpage{
+    height: 90vh;
+}
+
+.aboutpage .container1 {
+    height: 10vh;
+}
+
+.container5 {
+    height: 80vh;
+}
+
+.aboutpart {
+    display: flex;
+}
+
+.rightside {
+    display: flex;
+    flex-direction: column;
+}
+
+.abouttitle {
+    font-family: 'Courier New', Courier, monospace;
+    color: #1f2937;
+    font-weight: 500;
+    font-size: 150px;
+    padding: 40px;
+    position: absolute;
+    left: 27.4%;
+    top: 26%;
+}
+
+.aboutparagraph {
+    color: #1f2937;
+    font-size: 20px;
+    padding: 40px;
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    width: 600px;
+    height: auto;
+}
+
+.leftside {
+    position: absolute;
+    left: 6%;
+    top: 25%;
+}
+
+.leftside >img {
+    height: 650px;
+    width: auto;
+}
