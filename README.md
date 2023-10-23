@@ -1,7 +1,6 @@
 # landing-page2
-a project from the odin project website
-to change it up a bit I picked the topic of cats and adopting them
-so if you go to the live preview of the website, you are going to see a website about adopting cats and the cats we have right now (which is not real) and the about us page
-in the future I am thinking of adding more pages and functionalities like I did with the about us page
-about us page was not part of the original odin projects, it was only the main page
-but I wanted to add more pages to the main website!
+if you go to the live preview of the website, you are going to see a website about adopting cats and the 4 cats that are up for adoption right now.
+you're going to see their images, names, and details. there are also more sections on this page.
+I have also added an about us page that shows an image of a cat with a title and a description of the company.
+
+in the future, I am going to add more pages to this website, and also add javascript to it.
