@@ -8,6 +8,8 @@
 .container1 {
     background-color: #1f2937;
     height: 45vh;
+    display: flex;
+    flex-direction: column;
 }
 
 .header {
