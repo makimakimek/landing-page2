@@ -1,13 +1,13 @@
 .page {
     display: flex;
     flex-direction: column;
-    height: auto;
+    height: 200vh;
     overflow: auto;
 }
 
 .container1 {
     background-color: #1f2937;
-    height: 25%;
+    height: 50vh;
     display: flex;
     flex-direction: column;
 }
@@ -91,7 +91,7 @@
 /*/////////////////////////container2/////////////////////////*/
 
 .container2 {
-    height: 25%;
+    height: 50vh;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -134,7 +134,7 @@
 .quoteandauthor {
     display: flex;
     flex-direction: column;
-    height: 25%;
+    height: 50vh;
     width: 77vh;
     margin: 0 auto;
     align-items: center;
@@ -163,7 +163,7 @@
 /*///////////////////////container4////////////////////////////*/
 
 .container4 {
-    height: 25%;
+    height: 50vh;
     display: flex;
     flex-direction: column;
     align-items: center;
