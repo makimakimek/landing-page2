@@ -1,7 +1,7 @@
 .page {
     display: flex;
     flex-direction: column;
-    height: 200vh;
+    height: 100vh;
     overflow: auto;
 }
 
@@ -50,6 +50,7 @@
 .container1leftandright {
     display: flex;
     justify-content: space-evenly;
+    margin-bottom: 30px;
 }
 
 .container1left {
@@ -64,8 +65,9 @@
 }
 
 .image1 {
-    height: 300px;
-    width: auto;
+    height: auto;
+    width: 100%;
+    max-width: 300px;
 }
 
 .signupbutton1 {
@@ -103,11 +105,13 @@
     font-weight: 800;
     font-size: 28px;
     text-align: center;
+    margin-top: 40px;
 }
 
 .container2bottom {
     display: flex;
     justify-content: center;
+    margin-bottom: 30px;
 }
 
 .imageandsubtext {
@@ -148,7 +152,7 @@
 }
 
 .quote > div {
-    font-size: 28px;
+    font-size: 25px;
     font-style: italic;
 }
 
@@ -168,12 +172,15 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .textpart {
     background-color: #3882f6;
     width: 120vh;
     height: 150px;
+    max-width: 50%;
     border-radius: 6px;
     color: #f9faf8;
     display: flex;
