@@ -1,5 +1,6 @@
 .page {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     height: 200vh;
     overflow: auto;
@@ -9,11 +10,13 @@
     background-color: #1f2937;
     height: 50vh;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
 }
 
 .header {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
 }
 
@@ -29,6 +32,7 @@
 
 .headerright {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .link {
@@ -37,6 +41,7 @@
 
 .title {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-content: space-around;
 }
@@ -49,17 +54,20 @@
 
 .container1leftandright {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
 }
 
 .container1left {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-content: space-evenly;
 }
 
 .container1right {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
 }
 
@@ -77,12 +85,14 @@
     font-weight: bold;
     font-size: 17px;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
 }
 
 .titlesubtext {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-content: space-around;
     align-items: left;
