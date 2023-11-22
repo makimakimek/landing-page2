@@ -1,7 +1,7 @@
 .page {
     display: flex;
     flex-direction: column;
-    height: 100vh;
+    height: 200vh;
     overflow: auto;
 }
 
@@ -50,7 +50,6 @@
 .container1leftandright {
     display: flex;
     justify-content: space-evenly;
-    margin-bottom: 30px;
 }
 
 .container1left {
@@ -105,13 +104,11 @@
     font-weight: 800;
     font-size: 28px;
     text-align: center;
-    margin-top: 40px;
 }
 
 .container2bottom {
     display: flex;
     justify-content: center;
-    margin-bottom: 30px;
 }
 
 .imageandsubtext {
@@ -172,8 +169,6 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
-    margin-top: 30px;
-    margin-bottom: 30px;
 }
 
 .textpart {
