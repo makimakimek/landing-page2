@@ -35,6 +35,11 @@
     padding: 30px;
 }
 
+a.whiteLink {
+    color: white;
+    text-decoration: none;
+}
+
 .title {
     display: flex;
     flex-direction: column;
